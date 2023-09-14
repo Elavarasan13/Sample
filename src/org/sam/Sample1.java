@@ -7,7 +7,7 @@ public void methodone() {
 	System.out.println("adadhbad");
 }
 public void methodTwo() {
-	
+	System.out.println("output");
 }
 	
 	
