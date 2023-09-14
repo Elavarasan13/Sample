@@ -12,8 +12,14 @@ public class Sample2 {
 		System.out.println("ghjkl");
 		System.out.println("ghjkl");
 	}
+	public void tennis (){
+		System.out.println("roger");
+	}
 	
-	
+	public static void main(String[] args) {
+		Sample2 q= new Sample2();
+		q.tennis();
+	}
 	
 	
 	
