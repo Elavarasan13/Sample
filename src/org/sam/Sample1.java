@@ -10,6 +10,9 @@ public void methodTwo() {
 	System.out.println("output");
 }
 private void name() {
+	System.out.println("adkbdajk");
+	System.out.println("adkbdajk");
+
 	System.out.println("nattu");
 	
 }
