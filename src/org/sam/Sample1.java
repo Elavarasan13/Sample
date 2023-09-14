@@ -1,14 +1,14 @@
 package org.sam;
 
 public class Sample1 {
-public void methodone() {
-	System.out.println("adadhbad");
-	System.out.println("adadhbad");
-	System.out.println("adadhbad");
+private void newl() {
+	// TODO Auto-generated method stub
+
 }
-public void methodTwo() {
+private void name() {
 	
 }
+
 	
 	
 	//,jadcbacbsn
