@@ -10,9 +10,12 @@ public void methodTwo() {
 	System.out.println("output");
 }
 private void name() {
+	System.out.println("nattu");
 	
 }
-
+public void cricket(){
+	System.out.println("sachin");
+}
 	
 	//DSampel
 	//,jadcbacbsn
