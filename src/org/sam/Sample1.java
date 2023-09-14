@@ -12,9 +12,13 @@ public void methodTwo() {
 private void name() {
 	System.out.println("adkbdajk");
 	System.out.println("adkbdajk");
-	System.out.println("adkbdajk");
-}
 
+	System.out.println("nattu");
+	
+}
+public void cricket(){
+	System.out.println("sachin");
+}
 	
 	//DSampel
 	//,jadcbacbsn
