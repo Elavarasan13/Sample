@@ -19,6 +19,8 @@ public class Sample2 {
 	public static void main(String[] args) {
 		Sample2 q= new Sample2();
 		q.tennis();
+		q.datatwo();
+		
 	}
 	
 	
