@@ -29,9 +29,14 @@ public class Sample2 {
 	public static void main(String[] args) {
 		Sample2 q= new Sample2();
 		q.tennis();
+<<<<<<< HEAD
+		q.datatwo();
+		
+=======
 		q.dataone();
 		//sdzdfxhgvkhjbkl
 		 
+>>>>>>> d6c4c83237b8a6ed50ad6b573b4b35bc82b6be57
 	}
 
 	
