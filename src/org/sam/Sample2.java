@@ -11,7 +11,16 @@ public class Sample2 {
 		System.out.println("ghjkl");
 		System.out.println("ghjkl");
 		System.out.println("ghjkl");
+		
 	}
+	
+	public void datathree() {
+		System.out.println("ghjkp");
+		System.out.println("ghjkp");
+		System.out.println("ghjkp");
+	}
+		
+	
 	
 	
 	
